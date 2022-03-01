@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://i.ibb.co/r3wmpwr/LOGO.jpg" width="300" height="300">
-  <h1>👸💎 QUEEN AMDI BOT 💎👸</h1>
+  <img src="https://i.ibb.co/FBNmc6B/IMG-20211108-WA0021.jpg" width="300" height="300">
+  <h1>☣DarkError☣</h1>
 </div>
 <p align="center">
     Makes it easy and fun to use WhatsApp. It is also the first Sinhala user bot for WhatsApp.
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="httsp://github.com/BlackAmda/QueenAmdi">
-    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
+    <img src="https://i.ibb.co/FBNmc6B/IMG-20211108-WA0021.jpg">
   </a>
   <a href="httsp://github.com/BlackAmda/QueenAmdi">
     <img src="https://img.shields.io/docker/image-size/blackamda/queenamdi?style=flat-square&label=Docker+Image+Size">
