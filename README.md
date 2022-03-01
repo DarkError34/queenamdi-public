@@ -59,7 +59,7 @@
 </p>
 
 ```
-Queen Amdi bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
+Dark Error bot is an UserBot for WhatsApp That allowing you to get done so many tasks.
 The user is responsible for all possible consequences of misuse.
 This is not a Open-Source project. This is just a project that allow you to get deploy a bot.
 Additionally, it enables plug-in support for users.
@@ -68,8 +68,8 @@ Usage is entirely the responsibility of the user. The operating system is not re
 HAVE A FUN!
 ```
 
-# queenamdi-public
-This is full stack NPM of Queen Amdi
+# DarkError-public
+This is full stack NPM of Dark Error
 
 ### NPM Author
 `Black Amda` - [NPM](https://www.npmjs.com/~blackamda)
