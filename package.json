@@ -1,7 +1,7 @@
 {
-    "name": "queenamdi-public",
+    "name": "DarkError-public",
     "version": "1.1.0",
-    "description": "NPM Package for Queen Amdi Public version.",
+    "description": "NPM Package for Dark Error Public version.",
     "main": "main/index.js",
     "directories": {
       "lib": "lib"
